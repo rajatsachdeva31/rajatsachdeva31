@@ -5,10 +5,12 @@
 
 - Currently learning **React.js**
 
-- Studying at *Humber College*
+- Studying at ***Humber College***
 
 - **Languages:** Javascript, Typescript, Java, Python
 
 - **Frameworks:** React.js, Angular
+
+- Ex Software Engineer ***@Coforge***
 
 - Contact me at **r.sachdeva3105@gmail.com**
