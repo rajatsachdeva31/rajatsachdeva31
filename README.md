@@ -14,14 +14,6 @@
 
 - Contact me at **r.sachdeva3105@gmail.com**
 
-<div style="display: flex;">
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,angular,nodejs,java,git,aws,mysql)](https://skillicons.dev)
+
 <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=r-sachdeva3105&theme=algolia">
-
-<img align="left" width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=r-sachdeva3105&theme=algolia">
-
-<img align="right" width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=r-sachdeva3105&theme=algolia">
-
-<img align="left" width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=r-sachdeva3105&theme=algolia">
-
-<img align="right" width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=r-sachdeva3105&theme=algolia&utcOffset=8">
-</div>
