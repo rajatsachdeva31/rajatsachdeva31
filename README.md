@@ -14,6 +14,6 @@
 
 - Contact me at **r.sachdeva3105@gmail.com**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,angular,nodejs,java,git,aws,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,react,angular,nodejs,java,git,aws,mysql)](https://skillicons.dev)
 
 <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=r-sachdeva3105&theme=algolia">
