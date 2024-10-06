@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Rajat Sachdeva!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/r-sachdeva3105)
-[![Portfolio](https://img.shields.io/badge/Portfolio-website-orange?style=for-the-badge&logo=web)](https://r-sachdeva3105.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/r-sachdeva3105/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-website-blue?style=for-the-badge&logo=web)](https://r-sachdeva3105.github.io/)
+[![leetcode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode)](https://leetcode.com/u/r-sachdeva3105/)
+[![Credly](https://img.shields.io/badge/-Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/r-sachdeva3105/)
 
 Welcome to my GitHub! I'm a passionate **Full Stack Software Engineer** with a strong foundation in **frontend development** and expertise in modern web technologies like **React.js**, **Angular**, and **Node.js**. Currently, I'm honing my skills in **Information Technology Solutions** at **Humber College**, and I'm always looking for new challenges to further enhance my technical skills.
 
@@ -9,9 +11,9 @@ Welcome to my GitHub! I'm a passionate **Full Stack Software Engineer** with a s
 
 ### 🛠️ **Tech Stack**
 
-- **Frontend:** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=black) ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+- **Frontend:** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=black) ![Next](https://img.shields.io/badge/next.js-000000?style=flay&logo=nextdotjs&logoColor=white) ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
 - **Backend:** ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
-- **Cloud:** ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws) ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure)
+- **Cloud:** ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-web-services&logoColor=white) ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 - **Tools & Platforms:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
@@ -47,8 +49,9 @@ Welcome to my GitHub! I'm a passionate **Full Stack Software Engineer** with a s
 
 ### 🚀 **Recent Projects**
 
-- 🔗 [**InsurancePro**](https://github.com/yourrepo/InsurancePro): A comprehensive Insurance Broker Management System built using **Java Servlets**, **XML/JSON** for file storage, and **Repository Pattern**.
-- 🔗 [**Cipher Chat App**](https://github.com/yourrepo/CipherChat): A chat application connecting strangers using **React**, **Node.js**, and **Socket.io** with video calling capabilities.
+- 🔗 [**Retail Ease**](https://github.com/r-sachdeva3105/retailEase): A retail management app for inventory, sales and checkout using **React**, **Spring boot**, and **MySQL**.
+- 🔗 [**InsurancePro**](https://github.com/r-sachdeva3105/InsurancePro): A comprehensive Insurance Broker Management System built using **Java Servlets**, **MySQL**, and **Repository Pattern**.
+- 🔗 [**Cipher Chat**](https://github.com/r-sachdeva3105/cipher-chat): A chat application connecting strangers using **React**, **Node.js**, and **Socket.io** with video calling capabilities.
 
 Check out more of my projects on my [**GitHub repos**](https://github.com/r-sachdeva3105?tab=repositories).
 
