@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm a passionate **Full Stack Software Engineer** with a s
 ### 🛠️ **Tech Stack**
 
 - **Frontend:** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=black) ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
-- **Backend:** ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-339933?style=flat&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+- **Backend:** ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 - **Cloud:** ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws) ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure)
 - **Tools & Platforms:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
@@ -57,7 +57,7 @@ Check out more of my projects on my [**GitHub repos**](https://github.com/r-sach
 ### 🎖️ **Certifications & Achievements**
 
 - **AWS Certified:** Cloud Practitioner
-- **Microsoft Certified:** Azure AI Fundamentals
+- **Microsoft Certified:** Azure Fundamentals
 - **Java:** Apprentice Developer
 - **Hackathon Winner**: AWS DeepRacer 2024 Competition | 3rd Place
 
