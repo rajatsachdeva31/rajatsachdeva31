@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Rajat Sachdeva!
-![Views](https://komarev.com/ghpvc/?username=r-sachdeva3105&color=blue)
+![Views](https://komarev.com/ghpvc/?username=r-sachdeva3105&style=for-the-badge&color=blue)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/r-sachdeva3105/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-website-blue?style=for-the-badge&logo=web)](https://r-sachdeva3105.github.io/)
