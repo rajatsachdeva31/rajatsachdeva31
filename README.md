@@ -2,7 +2,7 @@
 ![Views](https://komarev.com/ghpvc/?username=r-sachdeva3105&style=for-the-badge&color=blue)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/r-sachdeva3105/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-website-blue?style=for-the-badge&logo=web)](https://r-sachdeva3105.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-website-blue?style=for-the-badge&logo=web)](https://rajatsachdeva.me/)
 [![leetcode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode)](https://leetcode.com/u/r-sachdeva3105/)
 [![Credly](https://img.shields.io/badge/-Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/r-sachdeva3105/)
 
