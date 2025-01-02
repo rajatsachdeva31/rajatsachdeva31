@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Rajat Sachdeva!
 ![Views](https://komarev.com/ghpvc/?username=r-sachdeva3105&style=for-the-badge&color=blue)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/r-sachdeva3105/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rajatsachdeva31/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-website-blue?style=for-the-badge&logo=web)](https://rajatsachdeva.me/)
-[![leetcode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode)](https://leetcode.com/u/r-sachdeva3105/)
-[![Credly](https://img.shields.io/badge/-Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/r-sachdeva3105/)
+[![leetcode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode)](https://leetcode.com/u/rajatsachdeva31/)
+[![Credly](https://img.shields.io/badge/-Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/rajatsachdeva31/)
 
 Welcome to my GitHub! I'm a passionate **Full Stack Software Engineer** with a strong foundation in **frontend development** and expertise in modern web technologies like **React.js**, **Angular**, and **Node.js**. Currently, I'm honing my skills in **Information Technology Solutions** at **Humber College**, and I'm always looking for new challenges to further enhance my technical skills.
 
