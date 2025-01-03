@@ -8,7 +8,9 @@
 Welcome to my GitHub! I'm a passionate **Full Stack Software Engineer** with a strong foundation in **frontend development** and expertise in modern web technologies like **React.js**, **Angular**, and **Node.js**. Currently, I'm honing my skills in **Information Technology Solutions** at **Humber College**, and I'm always looking for new challenges to further enhance my technical skills.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rajatsachdeva31&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
 ---
+
 ### 🛠️ **Tech Stack**
 
 - **Frontend:** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=black) ![Next](https://img.shields.io/badge/next.js-000000?logo=nextdotjs&logoColor=white) ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
