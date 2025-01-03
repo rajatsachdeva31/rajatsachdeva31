@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Rajat Sachdeva!
-![Views](https://komarev.com/ghpvc/?username=rajatsachdeva31&style=for-the-badge&color=blue)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rajatsachdeva31/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-website-blue?style=for-the-badge&logo=web)](https://rajatsachdeva.me/)
@@ -8,7 +7,6 @@
 
 Welcome to my GitHub! I'm a passionate **Full Stack Software Engineer** with a strong foundation in **frontend development** and expertise in modern web technologies like **React.js**, **Angular**, and **Node.js**. Currently, I'm honing my skills in **Information Technology Solutions** at **Humber College**, and I'm always looking for new challenges to further enhance my technical skills.
 
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=rajatsachdeva31&theme=dark&hide_border=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rajatsachdeva31&theme=dark&show_icons=true&hide_border=true&layout=compact)
 ---
 ### 🛠️ **Tech Stack**
@@ -23,11 +21,16 @@ Welcome to my GitHub! I'm a passionate **Full Stack Software Engineer** with a s
 
 ### 💼 **Experience**
 
-#### **Student Assistant** | Humber Polytechnic  
-*September 2024 - Present | Canada*  
-- Provide technical support and troubleshoot issues with **IT systems**, including **wireless connectivity**, **Blackboard**, and **Microsoft Office**.  
-- Assist students and faculty by answering questions and offering information on library services.  
-- Ensure smooth daily operations and enforce library policies in a positive and welcoming manner.
+#### **Full Stack Developer Intern** | Credwise  
+*January 2025 - Present | Canada*  
+- Built a web app, ImmigrateX, using the MERN stack to help immigrants access housing, car rentals, and essential resources for transitioning to Canada.
+- Designed and developed client onboarding features for realtors and car dealerships, including document uploads, soft credit checks, and service listings.
+- Created checklists and resources for pre-arrival and post-arrival tasks like applying for SIN, health cards, and setting up essential services.
+
+#### **Research Associate** | Humber Polytechnic  
+*November 2024 - December 2024 | Canada*  
+- Built a comprehensive resource library by collecting and verifying video resources, literature, and website articles to bridge theoretical knowledge with practical applications.
+- Developed a specialized library of resources focused on Advanced Java, C#, data structures, and design patterns, supporting students and educators in mastering these critical technical topics.
 
 #### **Software Engineer** | Coforge  
 *May 2021 - August 2023 | India*  
@@ -40,7 +43,7 @@ Welcome to my GitHub! I'm a passionate **Full Stack Software Engineer** with a s
 
 ### 🎓 **Education**
 
-#### **Humber College**  
+#### **Humber Polytechnic**  
 *Graduate Certificate, Information Technology Solutions*  
 *2023 - 2025 | Toronto, Canada*  
 
