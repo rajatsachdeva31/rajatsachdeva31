@@ -14,10 +14,10 @@ Welcome to my GitHub! I'm a passionate **Full Stack Software Engineer** with a s
 ### 🛠️ **Tech Stack**
 
 - **Frontend:** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=black) ![Next](https://img.shields.io/badge/next.js-000000?logo=nextdotjs&logoColor=white) ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
-- **Backend:** ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white)
-- **Database:** ![MySQL](https://img.shields.io/badge/-SQL-4479A1?logo=MySQL&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white) ![OracleSQL](https://img.shields.io/badge/Oracle-F80000?&logo=Oracle&logoColor=white)
-- **Cloud:** ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon-web-services&logoColor=white) ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?logo=microsoft-azure&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
-- **Tools & Platforms:** ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+- **Backend:** ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-FFFFFF?logo=Express&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white)
+- **Database:** ![MySQL](https://img.shields.io/badge/-SQL-4479A1?logo=MySQL&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white) ![OracleSQL](https://img.shields.io/badge/Oracle-F80000?&logo=Oracle&logoColor=white) ![Prisma ORM](https://img.shields.io/badge/-Prisma-5a67d8?logo=Prisma&logoColor=white)
+- **Cloud:** ![AWS](https://img.shields.io/badge/Amazon_Web_Services-232F3E?logo=amazon-web-services&logoColor=white) ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?logo=microsoft-azure&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+- **Tools & Platforms:** ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Github](https://img.shields.io/badge/-Github-000000?logo=Github&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
 ---
 
@@ -57,9 +57,9 @@ Welcome to my GitHub! I'm a passionate **Full Stack Software Engineer** with a s
 
 ### 🚀 **Recent Projects**
 
+- 🔗 [**Cryptex**](https://github.com/rajatsachdeva31/cryptex): A hands-on learning platform for crypto investment using **Next.js**, **Prisma**, **NeonDB**, **Clerk**, **Shadcn**, **Framer Motion**.
 - 🔗 [**FormFlow**](https://github.com/rajatsachdeva31/FormFlow): A Drag and Drop Form Builder using **Next.js**, **Prisma**, **PostgreSQL**, **Clerk**, **Shadcn**.
 - 🔗 [**RetailEase**](https://github.com/rajatsachdeva31/retailEase): A retail management application for inventory, sales and checkout using **React**, **Spring boot**, and **MySQL**.
-- 🔗 [**Cipher Chat**](https://github.com/rajatsachdeva31/cipher-chat): A chat application connecting strangers using **React**, **Node.js**, and **Socket.io** with video calling capabilities.
 
 Check out more of my projects on my [**GitHub repos**](https://github.com/rajatsachdeva31?tab=repositories).
 
@@ -67,10 +67,12 @@ Check out more of my projects on my [**GitHub repos**](https://github.com/rajats
 
 ### 🎖️ **Certifications & Achievements**
 
+- **Matera Fintech Ideathon** - Top 6 Finalists
+- **GitHub** Foundations Certificate
+- **Docker** Foundations Professional Certificate
 - **AWS Certified:** Cloud Practitioner
 - **Microsoft Certified:** Azure Fundamentals
-- **Java:** Apprentice Developer
-- **Hackathon Winner**: AWS DeepRacer 2024 Competition | 3rd Place
+- **AWS DeepRacer 2024 Competition** - 2nd Runner up
 
 ---
 
