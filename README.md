@@ -23,9 +23,15 @@ Welcome to my GitHub! I'm a passionate **Full Stack Software Engineer** with a s
 
 ### 💼 **Experience**
 
+#### **Information Technology Consultant** | ellwood Technology Inc.  
+*August 2025 - Present | Toronto, ON*  
+- Build and maintain scalable web applications with **Next.js, SQL, AWS, and Stripe**, integrating e-signatures and automation workflows using Zapier and Python.
+- Deliver IT solutions for law firms with Microsoft 365 and Azure administration, security, and optimization.
+- Manage cloud deployments, database performance, and payment systems while collaborating with stakeholders to ensure high-quality, timely delivery.
+
 #### **Full Stack Developer Intern** | Credwise  
-*January 2025 - Present | Canada*  
-- Built a web app, ImmigrateX, using the MERN stack to help immigrants access housing, car rentals, and essential resources for transitioning to Canada.
+*January 2025 - April 2025 | Canada*  
+- Built a web app, ImmigrateX, using the **MERN stack** to help immigrants access housing, car rentals, and essential resources for transitioning to Canada.
 - Designed and developed client onboarding features for realtors and car dealerships, including document uploads, soft credit checks, and service listings.
 - Created checklists and resources for pre-arrival and post-arrival tasks like applying for SIN, health cards, and setting up essential services.
 
