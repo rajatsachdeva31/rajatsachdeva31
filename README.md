@@ -41,7 +41,7 @@ Welcome to my GitHub! I'm a passionate **Full Stack Software Engineer** with a s
 #### **Software Engineer** | Coforge  
 *May 2021 - August 2023 | India*  
 - Contributed to the successful execution of the **Lifewriter project** for a US-based insurance company, building responsive and user-friendly web interfaces.  
-- Utilized **Angular**, **Typescript**, **HTML**, **CSS**, **Spring Boot**, and **Postman** to create dynamic web applications.  
+- Utilized **React.js**, **Typescript**, **HTML**, **CSS**, **Spring Boot**, and **Postman** to create dynamic web applications.  
 - Collaborated with cross-functional teams and UI/UX designers to implement highly accessible, modern, and brand-compliant frontend elements.  
 - Engaged in **agile methodologies** and participated in **sprint planning**, daily stand-ups, and retrospectives.
 
