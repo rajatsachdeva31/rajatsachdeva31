@@ -5,7 +5,7 @@
 [![leetcode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode)](https://leetcode.com/u/rajatsachdeva31/)
 [![Credly](https://img.shields.io/badge/-Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/rajatsachdeva31/)
 
-Welcome to my GitHub! I'm a passionate **Full Stack Software Engineer** with a strong foundation in **frontend development** and expertise in modern web technologies like **React.js**, **Angular**, and **Node.js**. Currently, I'm honing my skills in **Information Technology Solutions** at **Humber College**, and I'm always looking for new challenges to further enhance my technical skills.
+Welcome to my GitHub! I'm A Full Stack Software Engineer based in Canada with over 4 years of experience crafting clean, responsive, and user-friendly web applications. I specialize in frontend magic with frameworks like React, Next, Angular and love building seamless, scalable solutions using JavaScript, Typescript, Node, AWS, and SQL. Let's connect and create something awesome!
 
 ---
 
@@ -22,28 +22,16 @@ Welcome to my GitHub! I'm a passionate **Full Stack Software Engineer** with a s
 ### 💼 **Experience**
 
 #### **Information Technology Consultant** | ellwood Technology Inc.  
-*August 2025 - Present | Toronto, ON*  
-- Build and maintain scalable web applications with **Next.js, SQL, AWS, and Stripe**, integrating e-signatures and automation workflows using Zapier and Python.
-- Deliver IT solutions for law firms with Microsoft 365 and Azure administration, security, and optimization.
-- Manage cloud deployments, database performance, and payment systems while collaborating with stakeholders to ensure high-quality, timely delivery.
+*August 2025 - Present | Toronto, ON*
 
 #### **Full Stack Developer Intern** | Credwise  
-*January 2025 - April 2025 | Canada*  
-- Built a web app, ImmigrateX, using the **MERN stack** to help immigrants access housing, car rentals, and essential resources for transitioning to Canada.
-- Designed and developed client onboarding features for realtors and car dealerships, including document uploads, soft credit checks, and service listings.
-- Created checklists and resources for pre-arrival and post-arrival tasks like applying for SIN, health cards, and setting up essential services.
+*January 2025 - April 2025 | Canada*
 
 #### **Research Associate** | Humber Polytechnic  
-*November 2024 - December 2024 | Canada*  
-- Built a comprehensive resource library by collecting and verifying video resources, literature, and website articles to bridge theoretical knowledge with practical applications.
-- Developed a specialized library of resources focused on Advanced Java, C#, data structures, and design patterns, supporting students and educators in mastering these critical technical topics.
+*November 2024 - December 2024 | Canada*
 
 #### **Software Engineer** | Coforge  
-*May 2021 - August 2023 | India*  
-- Contributed to the successful execution of the **Lifewriter project** for a US-based insurance company, building responsive and user-friendly web interfaces.  
-- Utilized **React.js**, **Typescript**, **HTML**, **CSS**, **Spring Boot**, and **Postman** to create dynamic web applications.  
-- Collaborated with cross-functional teams and UI/UX designers to implement highly accessible, modern, and brand-compliant frontend elements.  
-- Engaged in **agile methodologies** and participated in **sprint planning**, daily stand-ups, and retrospectives.
+*May 2021 - August 2023 | India*
 
 ---
 
